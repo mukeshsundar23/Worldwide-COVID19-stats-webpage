@@ -18,7 +18,7 @@ Click this link to visit our Webpage: https://mukeshsundar23.github.io/Worldwide
 
 - Data Source: The COVID-19 statistics displayed on this webpage are sourced from an API that provides reliable and real-time data on the pandemic.
 - API Endpoint: The API endpoint used to fetch COVID-19 data is https://api.covid19india.org/data.json.
-- Data Attribution: The COVID-19 data displayed on this webpage is provided by api.covid19india.org, and proper attribution is given to the data source.
+- Data Attribution: The COVID-19 data displayed on this webpage is provided by https://api.covid19india.org, and proper attribution is given to the data source.
 
 ## Installation and Setup
 
