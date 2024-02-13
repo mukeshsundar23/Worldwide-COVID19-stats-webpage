@@ -26,7 +26,7 @@ As this project is a webpage, there is no installation required. Users can direc
 
 1. Open your web browser and go to https://mukeshsundar23.github.io/Worldwide-covid19-stats/.
 2. Once the webpage loads, you will see the global COVID-19 statistics overview.
-3. To view data for a specific country, use the country selection dropdown or interactive map.
+3. To view data for a specific country, use the country selection dropdown.
 4. The data will be automatically updated as new information becomes available from the API.
 
 ## Screenshots
